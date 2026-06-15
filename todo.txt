@@ -4,4 +4,8 @@ MY TO-DO LIST
 2. Learn GitHub
 3. Complete FSD Lab
 4.Practice Git Commands
+5.Complete internship task
+6.Practice coding daily
+
+
 
