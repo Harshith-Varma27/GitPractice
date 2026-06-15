@@ -1,0 +1,5 @@
+MY TO-DO LIST
+
+1. Learn Git
+2. Learn GitHub
+3. Complete FSD Lab
